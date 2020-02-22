@@ -1,0 +1,60 @@
+body {
+  background-color:#000;
+  color:#fff;
+  font-family:arial, helvetica, sans-serif;
+  max-width:900px;
+  margin:auto;
+}
+
+table#title {
+  width:900px;
+}
+
+table#title th {
+  font-size:20pt;
+  color:#fff;
+  text-align:left;`
+}
+
+table td.title {
+  font-weight:bold;
+  text-align:right;
+}
+
+table#body {
+  width:700px;
+}
+    
+td.menu div.menu {
+  background-color:#000099;
+}
+
+td.menu div.buttonup {
+  background-color:#000099;
+  text-align:center;
+  font-size:16pt;
+  cursor:hand;
+}
+
+td.menu div.buttonOver {
+  background-color:#000066;
+  text-align:center;
+  font-size:16pt;
+  cursor:hand;
+}
+
+td.menu div.buttonDown {
+  background-color:#660000;
+  color:#ffff00;
+  text-align:center;
+  font-size:16pt;
+  cursor:hand;
+}
+
+td.content {
+  vertical-align:text-top;
+}
+
+a {
+  color:#999900;
+}
